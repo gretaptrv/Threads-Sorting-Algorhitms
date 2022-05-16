@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649049667 source:c:\users\lenovo\documents\системно програмиране\threads-demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<signal.h>
+
